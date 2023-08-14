@@ -1,0 +1,28 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(149,255,0,1) 70%);7976995729932598) 30%, rgba(0,212,255,1) 85%);
+    display: table;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+.calculator{
+background-color: rgb(4, 83, 93);
+color: #fff;
+height: auto;
+width:270px;
+padding:20px;
+border-radius: 10px;
+text-align: center;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+position: absolute;
+}
+.display {
+    height: 80px;
+}
